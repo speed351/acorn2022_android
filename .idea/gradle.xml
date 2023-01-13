@@ -16,7 +16,9 @@
             <option value="$PROJECT_DIR$/step02layout" />
             <option value="$PROJECT_DIR$/step03view" />
             <option value="$PROJECT_DIR$/step04activitymove" />
+            <option value="$PROJECT_DIR$/step05example" />
             <option value="$PROJECT_DIR$/step05listview" />
+            <option value="$PROJECT_DIR$/step06customadapter" />
           </set>
         </option>
       </GradleProjectSettings>
