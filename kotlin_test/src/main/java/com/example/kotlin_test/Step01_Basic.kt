@@ -17,6 +17,7 @@ fun main(){
 
     val a=10
     var b=10
+    var c:Int=10
     // 값이 대입되면서 String type으로 myName이 만들어진다.
     val myName = "kim"
     // String type으로 선언된 yourName에 값 대입하기
@@ -24,4 +25,17 @@ fun main(){
     // String type ourName변수 만들고
     val ourName:String
     ourName="park"
+
+
+    val names=listOf<String>("kim", "lee", "park")
+
+    val d = names[1]
+    println(d)
+
+
+    val nums = listOf<Int>(10, 20, 30)
+    nums.forEach{
+        println(it)
+    }
+
 }

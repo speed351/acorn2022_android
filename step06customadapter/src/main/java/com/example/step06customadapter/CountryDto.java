@@ -1,6 +1,8 @@
 package com.example.step06customadapter;
 
-public class CountryDto {
+import java.io.Serializable;
+
+public class CountryDto implements Serializable {
     //필드
     private int resId;
     private String name;

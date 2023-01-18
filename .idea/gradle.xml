@@ -19,6 +19,11 @@
             <option value="$PROJECT_DIR$/step05example" />
             <option value="$PROJECT_DIR$/step05listview" />
             <option value="$PROJECT_DIR$/step06customadapter" />
+            <option value="$PROJECT_DIR$/step07fragment" />
+            <option value="$PROJECT_DIR$/step07fragment2" />
+            <option value="$PROJECT_DIR$/step08viewbinding" />
+            <option value="$PROJECT_DIR$/step09customview" />
+            <option value="$PROJECT_DIR$/step09gameview" />
           </set>
         </option>
       </GradleProjectSettings>
